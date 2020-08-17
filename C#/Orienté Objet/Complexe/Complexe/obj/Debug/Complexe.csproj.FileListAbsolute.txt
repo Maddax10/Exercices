@@ -1,0 +1,7 @@
+E:\Programmation\Exercices\C#\Orienté Objet\Complexe\Complexe\bin\Debug\Complexe.exe.config
+E:\Programmation\Exercices\C#\Orienté Objet\Complexe\Complexe\bin\Debug\Complexe.exe
+E:\Programmation\Exercices\C#\Orienté Objet\Complexe\Complexe\bin\Debug\Complexe.pdb
+E:\Programmation\Exercices\C#\Orienté Objet\Complexe\Complexe\obj\Debug\Complexe.csprojAssemblyReference.cache
+E:\Programmation\Exercices\C#\Orienté Objet\Complexe\Complexe\obj\Debug\Complexe.csproj.CoreCompileInputs.cache
+E:\Programmation\Exercices\C#\Orienté Objet\Complexe\Complexe\obj\Debug\Complexe.exe
+E:\Programmation\Exercices\C#\Orienté Objet\Complexe\Complexe\obj\Debug\Complexe.pdb
