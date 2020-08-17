@@ -1,2 +1,2 @@
 # Lien
-Exercices réalisé avec le site : https://www.exelib.net/exercices/programmation/csharp/
+https://www.exelib.net/exercices/programmation/csharp/
