@@ -1,7 +1,0 @@
-E:\Programmation\Exercices\C#\Orienté Objet\Article\Article\bin\Debug\Article.exe.config
-E:\Programmation\Exercices\C#\Orienté Objet\Article\Article\bin\Debug\Article.exe
-E:\Programmation\Exercices\C#\Orienté Objet\Article\Article\bin\Debug\Article.pdb
-E:\Programmation\Exercices\C#\Orienté Objet\Article\Article\obj\Debug\Article.csprojAssemblyReference.cache
-E:\Programmation\Exercices\C#\Orienté Objet\Article\Article\obj\Debug\Article.csproj.CoreCompileInputs.cache
-E:\Programmation\Exercices\C#\Orienté Objet\Article\Article\obj\Debug\Article.exe
-E:\Programmation\Exercices\C#\Orienté Objet\Article\Article\obj\Debug\Article.pdb
